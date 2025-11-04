@@ -1,0 +1,27 @@
+# Python
+__pycache__
+*.py[cod]
+*.pyo
+*.pyd
+*.log
+
+# Venv
+.venv
+
+# Git
+.git
+.gitignore
+
+# Env files
+.env
+
+# Editor/OS
+.DS_Store
+*.swp
+
+# Bytecode cache
+.pytest_cache
+
+# Local SQLite backups
+*.db-journal
+
